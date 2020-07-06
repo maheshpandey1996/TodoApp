@@ -5,7 +5,7 @@ This is a ToDo List App developed using Android Studio. ToDoList is software in 
 2. User can add new items
 3. User can update and delete existing items.
 4. Added clear buttom 
-5. Added Implecit Intend
+5. Added Implecit Intent
 # Database
  SQL-lite Database
  #Android Component
