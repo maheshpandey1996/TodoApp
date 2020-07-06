@@ -6,8 +6,16 @@ This is a ToDo List App developed using Android Studio. ToDoList is software in 
 3. User can update and delete existing items.
 4. Added clear buttom 
 5. Added Implecit Intend
+#Database
+ SQL-lite Database
+ #Android Component
+ 1. Activity
+ 2. Intents
+ 3. View
+ 4. Sources 
+ 
+ #GIF 
 <img src="20200706_113051.gif">
-
 
 <img src="20200706_113351.gif">
 
