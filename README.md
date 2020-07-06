@@ -1,3 +1,3 @@
 # TodoApp
-<img src="github-20200706_113051.gif">
-![](github-20200706_113051.gif)
+<img src="images/github-20200706_113051.gif">
+![](images/github-20200706_113051.gif)
