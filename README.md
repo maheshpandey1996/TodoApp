@@ -8,3 +8,9 @@ This is a ToDo List App developed using Android Studio. ToDoList is software in 
 5. Added Implecit Intend
 <img src="20200706_113051.gif">
 
+
+<img src="20200706_113351.gif">
+
+<img src="20200706_113603.gif">
+
+<img src="20200706_113856.gif">
