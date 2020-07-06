@@ -3,9 +3,10 @@ This is a ToDo List App developed using Android Studio. ToDoList is software in 
 # Features
 1. User can choose the task priority (High, Medium or Low).
 2. User can add new items
-3. User can update and delete existing items.
-4. Added clear buttom 
-5. Added Implecit Intent
+3. Date
+4. User can update and delete existing items.
+5. Added clear buttom 
+6. Added Implecit Intent
 # Database
  SQL-lite Database
  #Android Component
